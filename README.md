@@ -12,8 +12,7 @@ Feat
 
 \- Generate embeddings using Sentence Transformers
 
-\- Store and retrieve vectors using Endee
-
+\- Store and retrieve vectors using Ende
 \- Ask questions in natural language
 
 \- Generate grounded answers using Gemini
