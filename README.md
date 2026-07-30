@@ -8,8 +8,7 @@ Feat
 \- Upload one or more PDF documen
 
 \- Extract text from uploaded PDFs
-\- Split documents into semantic ch
-
+\- Split documents into semantic c
 \- Generate embeddings using Sentence Transformers
 
 \- Store and retrieve vectors using Ende
