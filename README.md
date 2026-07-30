@@ -60,7 +60,7 @@ Tech Stack
 
 \- Endee Vector Database
 
-\- Sentence Transformers
+\- Sentence Transforme
 
 \- Gemini API
 
