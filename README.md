@@ -9,7 +9,7 @@ Feat
 
 \- Extract text from uploaded PDFs
 \- Split documents into sem
-\- Generate embeddings using Sentence Transformers
+\- Generate embeddings using Sentence Transform
 
 \- Store and retrieve vectors using E
 \- Ask questions in natural lan
