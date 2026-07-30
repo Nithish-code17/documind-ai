@@ -6,8 +6,7 @@ DocuMind AI is a multi-document RAG (Retrieval-Augmented Generation) assistant t
 
 
 
-Feature
-
+Featur
 
 
 \- Upload one or more PDF documents
