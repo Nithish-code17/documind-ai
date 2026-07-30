@@ -10,7 +10,6 @@ Feat
 \- Upload one or more PDF documents
 
 \- Extract text from uploaded PDFs
-
 \- Split documents into semantic chunks
 
 \- Generate embeddings using Sentence Transformers
