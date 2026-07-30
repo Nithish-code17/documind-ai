@@ -21,8 +21,7 @@ Feat
 
 \- Generate grounded answers using Gemini
 
-\- Display retrieved source chunks for transparency
-
+\- Display retrieved source chunks for transparenc
 
 
 Problem Statement
