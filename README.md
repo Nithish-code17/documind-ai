@@ -26,7 +26,6 @@ Finding relevant information from long documents is time-consuming and inefficie
 Solution Overview
 
 
-
 DocuMind AI uses a Retrieval-Augmented Generation pipeline:
 
 
