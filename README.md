@@ -14,7 +14,7 @@ Feat
 
 \- Store and retrieve vectors using Ende
 \- Ask questions in natural langu
-\- Generate grounded answers using Gemini
+\- Generate grounded answers using Gemi
 
 \- Display retrieved source chunks for transparenc
 
