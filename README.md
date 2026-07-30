@@ -5,7 +5,7 @@ DocuMind AI
 DocuMind AI is a multi-document RAG (Retrieval-Augmented Generation) assistant that allows users to upload PDF documents, store their embeddings in the Endee vector database, and ask natural language questions over the uploaded coten
 
 Feat
-\- Upload one or more PDF documents
+\- Upload one or more PDF documen
 
 \- Extract text from uploaded PDFs
 \- Split documents into semantic ch
