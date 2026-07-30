@@ -13,8 +13,7 @@ Feat
 \- Generate embeddings using Sentence Transformers
 
 \- Store and retrieve vectors using Ende
-\- Ask questions in natural langua
-
+\- Ask questions in natural langu
 \- Generate grounded answers using Gemini
 
 \- Display retrieved source chunks for transparenc
