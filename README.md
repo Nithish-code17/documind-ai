@@ -8,7 +8,7 @@ Feat
 \- Upload one or more PDF documents
 
 \- Extract text from uploaded PDFs
-\- Split documents into semantic chun
+\- Split documents into semantic ch
 
 \- Generate embeddings using Sentence Transformers
 
