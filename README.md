@@ -23,8 +23,6 @@ Feat
 
 Problem Statement
 
-
-
 Finding relevant information from long documents is time-consuming and inefficient. Traditional keyword-based search often misses context and semantic meaning. DocuMind AI solves this by combining vector search and large language models to provide accurate, context-aware answers from uploaded documents.
 
 
