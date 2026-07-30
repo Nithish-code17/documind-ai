@@ -15,8 +15,7 @@ Feat
 \- Ask questions in natural lan
 \- Generate grounded answers using Gemi
 
-\- Display retrieved source chunks for transparenc
-
+\- Display retrieved source chunks for transparen
 
 Problem Statement
 
