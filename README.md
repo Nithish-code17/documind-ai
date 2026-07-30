@@ -11,7 +11,7 @@ Feat
 \- Split documents into sem
 \- Generate embeddings using Sentence Transformers
 
-\- Store and retrieve vectors using Ende
+\- Store and retrieve vectors using E
 \- Ask questions in natural lan
 \- Generate grounded answers using Gemi
 
